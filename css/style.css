@@ -9,3 +9,11 @@ html {
 body {
     background-color: rgb(71, 69, 69);
 }
+
+.body__header {
+    color:bisque
+}
+
+.body__article {
+    color: white;
+}
