@@ -5,11 +5,3 @@ html {
 *, ::after, ::before {
     box-sizing: inherit;
 }
-
-.container__header {
-    color: red;
-}
-
-.container {
-    color: blue;
-}
