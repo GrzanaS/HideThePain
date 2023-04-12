@@ -3,4 +3,4 @@
 ## Demo
 [Check the site!](https://grzanas.github.io/HideThePain/)
 ## My First Project
-I decided to created a very casual site for the beginning.
+I decided to created a very casual site for the beginning. This is my first contact with JavaSCRIPT. I decided to put on the bottom of the site button which changes language of the site. 
